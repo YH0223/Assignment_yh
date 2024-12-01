@@ -3,3 +3,4 @@ flowers_datasets/
 01_CIFAR10_dataload.py
 02_Flowers_dataload.py
 ./.idea/
+./CIFAR_REPORT.py
